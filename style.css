@@ -285,6 +285,10 @@ section.landing .profile-area .inner-circle{
     overflow: hidden;
 }
 
+section.landing .profile-area .inner-circle img{
+    width: 100%;
+}
+
 /* --------------------About section------------------------- */
 
 section.about {
